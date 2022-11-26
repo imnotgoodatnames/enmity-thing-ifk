@@ -1,0 +1,157 @@
+{
+  "name": "BeBlind",
+  "description": "Be blind lol(to fix it, just press on top of the nitro button when you used the theme)",
+  "version": "0.0",
+  "authors": [
+    {
+      "name": "troll emoji#9833",
+      "id": "649231176682438686"
+    }
+  ],
+  "theme_color_map": {
+    "HEADER_PRIMARY": [
+      "#000000",
+      "#000000"
+    ],
+    "HEADER_SECONDARY": [
+      "#000000",
+      "#000000"
+    ],
+    "TEXT_NORMAL": [
+      "#000000",
+      "#000000"
+    ],
+    "TEXT_MUTED": [
+      "#000000",
+      "#000000"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#000000",
+      "#000000"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#000000",
+      "#000000"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#000000",
+      "#000000"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#000000",
+      "#000000"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#000000",
+      "#000000"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#000000",
+      "#000000"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#000000",
+      "#000000"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#000000",
+      "#000000"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#000000",
+      "#000000"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#000000",
+      "#000000"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#000000",
+      "#000000"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#000000",
+      "#000000"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#000000",
+      "#000000"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "rgba(255, 255, 255, 0.02)",
+      "#000000"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "rgba(255, 255, 255, 0.02)",
+      "hsla(214, 9.9%, 50.4%, 0.08)"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "rgba(255, 255, 255, 0.03)",
+      "hsla(214, 9.9%, 50.4%, 0.16)"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "rgba(255, 255, 255, 0.04)",
+      "hsla(214, 9.9%, 50.4%, 0.24)"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "transparent",
+      "hsla(240, 7.7%, 2.5%, 0.08)"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "#2a1858",
+      "hsla(217, 7.6%, 33.5%, 0.3)"
+    ],
+    "SCROLLBAR_THIN_TRACK": [
+      "transparent",
+      "hsla(0, 0%, 0%, 0)"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "#000000",
+      "#000000"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "rgba(0, 0, 0, 0.1)",
+      "#000000"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#000000",
+      "#000000"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#000000",
+      "#000000"
+    ],
+    "TEXT_LINK": [
+      "#000000",
+      "#000000"
+    ],
+    "KEYBOARD": [
+      "#000000",
+      "#000000"
+    ]
+  },
+  "colours": {
+    "PRIMARY_DARK": "#000000",
+    "PRIMARY_DARK_100": "#000000",
+    "PRIMARY_DARK_200": "#000000",
+    "PRIMARY_DARK_300": "#000000",
+    "PRIMARY_DARK_360": "#000000",
+    "PRIMARY_DARK_400": "#000000",
+    "PRIMARY_DARK_500": "#000000",
+    "PRIMARY_DARK_600": "#000000",
+    "PRIMARY_DARK_630": "#000000",
+    "PRIMARY_DARK_700": "#000000",
+    "PRIMARY_DARK_800": "#000000",
+    "BRAND_NEW": "#000000",
+    "STATUS_RED": "#000000",
+    "STATUS_GREEN_600": "#000000"
+  },
+  "unsafe_colors": {
+    "CHAT_GREY": "#000000"
+  },
+  "background": {
+    "blur": 0.1,
+    "url": "",
+    "alpha": 1.0
+  }
+}
